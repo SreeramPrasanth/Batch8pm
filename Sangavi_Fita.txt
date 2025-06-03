@@ -1,2 +1,4 @@
 Hello Git Session
 Is it easy to understand...
+
+New line added
